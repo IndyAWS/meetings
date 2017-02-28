@@ -1,8 +1,5 @@
-% IndyAWS Meetup
-% January 31, 2017
-% The Journey
-
-----
+footer: IndyAWS Meetup January 31, 2017
+Slidenumbers: true
 
 # IndyAWS: January 2017
 
@@ -18,10 +15,9 @@
 
 ### What was your first server OS?
 
-<div class="notes">
-- Who are we?
-- Outline of the meeting
-</div>
+^ Who are we?
+
+^ Outline of the meeting
 
 ----
 
