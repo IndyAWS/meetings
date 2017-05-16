@@ -38,7 +38,7 @@ Password: DistrictTap
 
 ## AWS News
 
-* [Announcing Third Edge Location in Atlanta, Georgia for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2017/04/announcing-third-edge-location-in-atlanta-georgia-for-amazon-cloudfront/)
+* [Announcing Third Edge Location in Atlanta, Georgia for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2017/04/announcing-third-edge-location-in-atlanta-georgia-for-amazon-cloudfront/)  
 * [The Amazon SQS Java Messaging Library for JMS now supports FIFO Queues](https://aws.amazon.com/about-aws/whats-new/2017/04/the-amazon-sqs-java-messaging-library-for-jms-now-supports-fifo-queues/)
 * [Manage access to your RDS for MySQL and Amazon Aurora databases using AWS IAM](https://aws.amazon.com/about-aws/whats-new/2017/04/manage-access-to-your-rds-for-mysql-and-amazon-aurora-databases-using-aws-iam/)
 * [Amazon WorkDocs iOS App Now Lets You Save Files Directly to WorkDocs, and Open Files Stored in Your WorkDocs Account Using Other Apps on Your Device](https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-workdocs-ios-app-now-lets-you-save-files-directly-to-amazon-workdocs-and-open-amazon-workdocs-files-in-other-apps-on-your-device/)
