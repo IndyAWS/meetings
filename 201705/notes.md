@@ -50,6 +50,8 @@ Password: DistrictTap
 * [Amazon Simple Queue Service (SQS) Introduces Server-Side Encryption for Queues](https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-simple-queue-service-sqs-introduces-server-side-encryption-for-queues/)
 * [Amazon Cognito Now Supported by AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-cognito-now-supported-by-aws-cloudformation/)
 
+----
+
 ## News (con't)
 
 * [Updates to Presto, Apache Zeppelin, Apache Flink, and Hue now available on Amazon EMR release 5.5.0](https://aws.amazon.com/about-aws/whats-new/2017/04/updates-to-presto-apache-zeppelin-apache-flink-and-hue-now-available-on-amazon-emr-release-5-5-0/)
@@ -64,6 +66,8 @@ Password: DistrictTap
 * [AWS Elastic Beanstalk supports Application Version Lifecycle on the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2017/05/aws-elastic-beanstalk-supports-version-lifecycle-management/)
 * [The AWS Deep Learning AMI for Amazon Linux Now Supports Caffe2](https://aws.amazon.com/about-aws/whats-new/2017/05/the-aws-deep-learning-ami-for-amazon-linux-now-supports-caffe2/)
 * [AWS Lambda Raises Default Concurrent Execution Limit](https://aws.amazon.com/about-aws/whats-new/2017/05/aws-lambda-raises-default-concurrent-execution-limit/)
+
+----
 
 ## News (con't)
 
