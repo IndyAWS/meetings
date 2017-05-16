@@ -38,6 +38,35 @@ Password: DistrictTap
 
 ## AWS News
 
+* [Announcing Third Edge Location in Atlanta, Georgia for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2017/04/announcing-third-edge-location-in-atlanta-georgia-for-amazon-cloudfront/)
+* [The Amazon SQS Java Messaging Library for JMS now supports FIFO Queues](https://aws.amazon.com/about-aws/whats-new/2017/04/the-amazon-sqs-java-messaging-library-for-jms-now-supports-fifo-queues/)
+* [Manage access to your RDS for MySQL and Amazon Aurora databases using AWS IAM](https://aws.amazon.com/about-aws/whats-new/2017/04/manage-access-to-your-rds-for-mysql-and-amazon-aurora-databases-using-aws-iam/)
+* [Amazon WorkDocs iOS App Now Lets You Save Files Directly to WorkDocs, and Open Files Stored in Your WorkDocs Account Using Other Apps on Your Device](https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-workdocs-ios-app-now-lets-you-save-files-directly-to-amazon-workdocs-and-open-amazon-workdocs-files-in-other-apps-on-your-device/)
+* [Amazon Lumberyard Beta 1.9 Now Available, Adds Player Account Cloud Gem, Improved Component Entity System, Particle Editor Updates, and More](https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-lumberyard-beta-1-9-now-available-adds-player-account-cloud-gem-improved-component-entity-system-particle-editor-updates-and-more/)
+* [Amazon Inspector announces availability of Assessment Reports, and the launch of support for Amazon Linux 2017.03](https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-inspector-announces-availability-of-assessment-reports-and-the-launch-of-support-for-amazon-linux-2017-03/)
+* [Now Available: Hardware MFA for GovCloud](https://aws.amazon.com/about-aws/whats-new/2017/04/now-available-hardware-mfa-for-govcloud/)
+* [AWS Mobile Hub Adds Export/Import for Snapshotting and Repeatable Deployment of Projects Through the Development Lifecycle] https://aws.amazon.com/about-aws/whats-new/2017/04/aws-mobile-hub-adds-export-import-for-snapshotting-and-repeatable-deployment-of-projects-through-the-development-lifecycle/)
+* [AWS Config Supports Rules in Asia Pacific (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2017/04/aws-config-supports-rules-in-asia-pacific-mumbai-region/)
+* [Amazon Simple Queue Service (SQS) Introduces Server-Side Encryption for Queues](https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-simple-queue-service-sqs-introduces-server-side-encryption-for-queues/)
+* [Amazon Cognito Now Supported by AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-cognito-now-supported-by-aws-cloudformation/)
+
+## News (con't)
+
+* [Updates to Presto, Apache Zeppelin, Apache Flink, and Hue now available on Amazon EMR release 5.5.0](https://aws.amazon.com/about-aws/whats-new/2017/04/updates-to-presto-apache-zeppelin-apache-flink-and-hue-now-available-on-amazon-emr-release-5-5-0/)
+* [AWS CloudFormation adds support for Amazon Cognito, EBS Elastic Volumes and updates resource coverage](https://aws.amazon.com/about-aws/whats-new/2017/04/aws-cloudformation-adds-support-for-amazon-cognito-ebs-elastic-volumes-and-updates-resource-coverage/)
+* [Amazon QuickSight now supports audit logging with AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-quicksight-now-supports-audit-logging-with-aws-cloudtrail/)
+* [Amazon Simple Queue Service (SQS) is Now a HIPAA Eligible Service](https://aws.amazon.com/about-aws/whats-new/2017/05/amazon-simple-queue-service-sqs-is-now-a-hipaa-eligible-service/)
+* [New Quick Start Deploys SIOS DataKeeper Cluster Edition on the AWS Cloud](https://aws.amazon.com/about-aws/whats-new/2017/05/new-quick-start-deploys-sios-datakeeper-cluster-edition-on-the-aws-cloud/)
+* [AWS CodeDeploy Now Integrates With Elastic Load Balancing](https://aws.amazon.com/about-aws/whats-new/2017/05/aws-codedeploy-now-integrates-with-elastic-load-balancing/)
+* [AWS Storage Gateway is Now Available in the Asia Pacific (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2017/05/aws-storage-gateway-is-now-available-in-the-asia-pacific-mumbai-region/)
+* [AWS EdStart for EdTech Startups](https://aws.amazon.com/about-aws/whats-new/2017/05/aws-edstart-for-edtech-startups/)
+* [The AWS Directory Service Console Is Now Available in Chinese, Japanese, and Korean Languages](https://aws.amazon.com/about-aws/whats-new/2017/05/the-aws-directory-service-console/)
+* [AWS Elastic Beanstalk supports Application Version Lifecycle on the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2017/05/aws-elastic-beanstalk-supports-version-lifecycle-management/)
+* [The AWS Deep Learning AMI for Amazon Linux Now Supports Caffe2](https://aws.amazon.com/about-aws/whats-new/2017/05/the-aws-deep-learning-ami-for-amazon-linux-now-supports-caffe2/)
+* [AWS Lambda Raises Default Concurrent Execution Limit](https://aws.amazon.com/about-aws/whats-new/2017/05/aws-lambda-raises-default-concurrent-execution-limit/)
+
+## News (con't)
+
 * [Amazon RDS for PostgreSQL Supports PostgreSQL Minor Versions 9.6.2, 9.5.6, 9.4.11 and 9.3.16](https://aws.amazon.com/about-aws/whats-new/2017/05/amazon-rds-postgresql-version-support/)
 * [Amazon Cognito Available in the Asia Pacific (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2017/05/amazon-cognito-available-in-the-asia-pacific-mumbai-region/)
 * [Amazon QuickSight Adds Support for Amazon EMR with new Presto and Apache Spark Connectors](https://aws.amazon.com/about-aws/whats-new/2017/05/amazon-quicksight-adds-support-for-emr-with-new-connectors/)
