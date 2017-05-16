@@ -102,7 +102,8 @@ Password: DistrictTap
 
 ## Upcoming Events
 
-* Montly Webinar Series <https://aws.amazon.com/about-aws/events/monthlywebinarseries/>
+* Monthly Webinar Series <https://aws.amazon.com/about-aws/events/monthlywebinarseries/>
+* Indy Civic Hack <https://www.eventbrite.com/e/indycivichack-tickets-30870294883>
 * Chicago AWS Summit | July 26 - 27,  Registration Coming Soon
 
 ^ Webinar series are all across the various technologies (Big data, AI, compute, etc)
