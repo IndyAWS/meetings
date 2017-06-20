@@ -43,7 +43,7 @@ Password: DistrictTap
 * [AWS Schema Conversion Tool Expands Support to Legacy Data Warehouse](https://aws.amazon.com/about-aws/whats-new/2017/06/aws-schema-conversion-tool-expands-support-to-legacy-dw/)
 * [Amazon CloudWatch Events now supports Amazon Kinesis Firehose as a target](https://aws.amazon.com/about-aws/whats-new/2017/06/cloudwatch-events-now-supports-amazon-kinesis-firehose/)
 * [Amazon Aurora is Available in the EU (Frankfurt) Region](https://aws.amazon.com/about-aws/whats-new/2017/06/amazon-aurora-is-available-in-the-eu--frankfurt--region/)
-* [Third AZ in EU (Frankfurt) Region] (https://aws.amazon.com/about-aws/whats-new/2017/06/third-az-in-eu-frankfurt-region/)
+* [Third AZ in EU (Frankfurt) Region](https://aws.amazon.com/about-aws/whats-new/2017/06/third-az-in-eu-frankfurt-region/)
 * [Amazon AppStream 2.0 introduces built-in user management and web portals for users](https://aws.amazon.com/about-aws/whats-new/2017/06/amazon-appstream-2-0-introduces-built-in-user-management-and-web-portals-for-users/)
 * [AWS Batch is Now Available in Tokyo](https://aws.amazon.com/about-aws/whats-new/2017/06/aws-batch-is-now-available-in-tokyo/)
 * [Amazon Simple Notification Service (SNS) is Now a HIPAA Eligible Service](https://aws.amazon.com/about-aws/whats-new/2017/06/amazon-simple-notification-service-sns-is-now-a-hipaa-eligible-service/)  
