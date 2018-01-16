@@ -39,7 +39,37 @@ Password: DistrictTap
 
 ----
 
-## AWS News
+## AWS re:Invent 2017 News
+
+### Machine Learning and AI
+
+* Amazon Rekognition Video Service
+* AWS Deeplens
+* SageMaker 
+
+---
+
+## AWS re:Invent 2017 News
+
+### Compute and Containers
+
+* Amazon Elastic Container Service for Kubernetes
+* EC2 H1, M5, T2 Unlimited
+* S3 Select
+* Aurora Serverless and Multi-Master
+* DynamoDB On-Demand Backup and Global Tables 
+
+---
+
+## AWS re:Invent 2017 News
+
+### Other
+
+* Alexa for Business
+* Amazon Time Sync Service
+* AWS Cloud9
+* Amazon Sumerian 
+
 
 ----
 
